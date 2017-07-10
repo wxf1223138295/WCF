@@ -1,0 +1,11 @@
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.Patientnfo.resources
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.Properties.Resources.resources
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.csproj.GenerateResource.Cache
+D:\外部项目\20170621\XFClient\XF.CForm.exe.config
+D:\外部项目\20170621\XFClient\XF.CForm.exe
+D:\外部项目\20170621\XFClient\XF.CForm.pdb
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.exe
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.pdb
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.DoWithFile.resources
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.CForm\obj\Debug\XF.CForm.DateTimeCompareString.resources

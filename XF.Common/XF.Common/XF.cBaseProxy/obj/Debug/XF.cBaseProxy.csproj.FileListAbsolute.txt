@@ -1,0 +1,5 @@
+D:\外部项目\20170621\XFClient\XF.cBaseProxy.dll
+D:\外部项目\20170621\XFClient\XF.cBaseProxy.pdb
+D:\外部项目\20170621\XF.Common\XF.Common\XF.cBaseProxy\obj\Debug\XF.cBaseProxy.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XF.Common\XF.Common\XF.cBaseProxy\obj\Debug\XF.cBaseProxy.dll
+D:\外部项目\20170621\XF.Common\XF.Common\XF.cBaseProxy\obj\Debug\XF.cBaseProxy.pdb

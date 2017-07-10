@@ -1,0 +1,6 @@
+D:\外部项目\20170621\XFService\WXFServiceHosting.exe.config
+D:\外部项目\20170621\XFService\WXFServiceHosting.exe
+D:\外部项目\20170621\XFService\WXFServiceHosting.pdb
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\WXFServiceHosting\obj\Debug\WXFServiceHosting.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\WXFServiceHosting\obj\Debug\WXFServiceHosting.exe
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\WXFServiceHosting\obj\Debug\WXFServiceHosting.pdb

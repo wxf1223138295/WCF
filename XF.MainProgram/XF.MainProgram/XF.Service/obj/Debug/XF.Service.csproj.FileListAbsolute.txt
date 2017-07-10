@@ -1,0 +1,5 @@
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.Service\obj\Debug\XF.Service.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XFService\XF.Service.dll
+D:\外部项目\20170621\XFService\XF.Service.pdb
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.Service\obj\Debug\XF.Service.dll
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.Service\obj\Debug\XF.Service.pdb

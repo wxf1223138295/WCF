@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.BaseFun", "XF.BaseFun\XF.BaseFun.csproj", "{4741B119-DD07-4871-90DB-B92251ECCBA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.sBaseMethod", "XF.sBaseMethod\XF.sBaseMethod.csproj", "{0F8A81B1-EC2D-4820-B599-5BB646175FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.cBaseProxy", "XF.cBaseProxy\XF.cBaseProxy.csproj", "{8F63F7BC-BAE1-4C84-9952-8E66F6F37412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4741B119-DD07-4871-90DB-B92251ECCBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4741B119-DD07-4871-90DB-B92251ECCBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4741B119-DD07-4871-90DB-B92251ECCBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4741B119-DD07-4871-90DB-B92251ECCBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8A81B1-EC2D-4820-B599-5BB646175FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8A81B1-EC2D-4820-B599-5BB646175FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8A81B1-EC2D-4820-B599-5BB646175FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8A81B1-EC2D-4820-B599-5BB646175FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F63F7BC-BAE1-4C84-9952-8E66F6F37412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F63F7BC-BAE1-4C84-9952-8E66F6F37412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F63F7BC-BAE1-4C84-9952-8E66F6F37412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F63F7BC-BAE1-4C84-9952-8E66F6F37412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

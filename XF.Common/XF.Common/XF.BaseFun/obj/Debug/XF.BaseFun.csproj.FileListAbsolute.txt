@@ -1,0 +1,5 @@
+D:\外部项目\20170621\XFClient\XF.BaseFun.dll
+D:\外部项目\20170621\XFClient\XF.BaseFun.pdb
+D:\外部项目\20170621\XF.Common\XF.Common\XF.BaseFun\obj\Debug\XF.BaseFun.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XF.Common\XF.Common\XF.BaseFun\obj\Debug\XF.BaseFun.dll
+D:\外部项目\20170621\XF.Common\XF.Common\XF.BaseFun\obj\Debug\XF.BaseFun.pdb

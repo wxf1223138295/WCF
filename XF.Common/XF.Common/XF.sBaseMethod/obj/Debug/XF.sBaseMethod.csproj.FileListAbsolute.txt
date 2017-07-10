@@ -1,0 +1,5 @@
+D:\外部项目\20170621\XFService\XF.sBaseMethod.dll
+D:\外部项目\20170621\XFService\XF.sBaseMethod.pdb
+D:\外部项目\20170621\XF.Common\XF.Common\XF.sBaseMethod\obj\Debug\XF.sBaseMethod.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XF.Common\XF.Common\XF.sBaseMethod\obj\Debug\XF.sBaseMethod.dll
+D:\外部项目\20170621\XF.Common\XF.Common\XF.sBaseMethod\obj\Debug\XF.sBaseMethod.pdb

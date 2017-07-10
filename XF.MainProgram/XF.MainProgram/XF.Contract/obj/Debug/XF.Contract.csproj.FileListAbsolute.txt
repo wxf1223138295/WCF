@@ -1,0 +1,5 @@
+D:\外部项目\20170621\XFClient\XF.Contract.dll
+D:\外部项目\20170621\XFClient\XF.Contract.pdb
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.Contract\obj\Debug\XF.Contract.csprojResolveAssemblyReference.cache
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.Contract\obj\Debug\XF.Contract.dll
+D:\外部项目\20170621\XF.MainProgram\XF.MainProgram\XF.Contract\obj\Debug\XF.Contract.pdb
